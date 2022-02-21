@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Federico from Italy 
 - 👀 I’m interested in programming and here to show a little of my skills,
-- I'm here to have some project to show here on github for my CV
-- and I may collaborate in some project if I'm interested in
+- I'm here to have some project to show for my CV
+- and I may collaborate in projects if I'm interested in, 
+- I'm really interested in statistical analisys, financial markets and development of trading systems
 - I've experience as system administrator, network manager, programming, web development and SQL
 - About programming I always say that the foundation is to build a good algoritm then you can code it in every language you want using a manual
 - 💞️ I'm good in Python and trying always to get better
